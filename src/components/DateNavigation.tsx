@@ -191,4 +191,4 @@ const DateNavigation: React.FC<DateNavigationProps> = ({ selectedDate, onDateCha
   );
 };
 
-export default DiaryEntry;
+export default DateNavigation; // ✅ CORRECT
